@@ -1,0 +1,32 @@
+{
+    "name" : "kowsika",
+    "age": 28,
+    "gender":"female",
+    "place": "kalpakkam",
+    " city": " chennai",
+    " state": " Tamilnadu",
+    "country": " India",
+    "hobby": ["painting","cooking","watching movie"],
+
+    "work":[
+        {
+            "company":"ABC techno Labs",
+            "postion":"Senior Ananlyst",
+            "Startdate":"20.6.2018",
+            "Enddate":"10.5.2022"
+        }
+    ],
+
+    "Intruments Handling":["ICP-MS","IC","UV-spetrometer","kjeldhal"],
+
+    "Education":[
+        {
+            "Instituation":"K.S.Rangasamy college of technology",
+            "Degree":"M.Tech",
+            "Department":"Bio-technology",
+            "Startyear":"2016",
+            "Endyear":"2018"
+        }
+    ]
+    
+}
